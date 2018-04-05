@@ -1,0 +1,26 @@
+c:\users\glexaomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\bin\Debug\Platformer Game.exe.config
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\bin\Debug\Platformer Game.exe
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\bin\Debug\Platformer Game.pdb
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\obj\Debug\Platformer_Game.Form1.resources
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\obj\Debug\Platformer_Game.Properties.Resources.resources
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\obj\Debug\Platformer Game.csproj.GenerateResource.Cache
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\obj\Debug\Platformer Game.exe
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\obj\Debug\Platformer Game.pdb
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\obj\Debug\Platformer Game.csprojResolveAssemblyReference.cache
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\obj\Debug\Platformer_Game.About.resources
+\\Mac\Host\Volumes\C\Users\GlexAomes\Documents\Visual Studio 2012\Projects\Platformer Game\Platformer Game\bin\Debug\Platformer Game.exe.config
+\\Mac\Host\Volumes\C\Users\GlexAomes\Documents\Visual Studio 2012\Projects\Platformer Game\Platformer Game\obj\Debug\Platformer Game.exe
+\\Mac\Host\Volumes\C\Users\GlexAomes\Documents\Visual Studio 2012\Projects\Platformer Game\Platformer Game\obj\Debug\Platformer Game.pdb
+D:\SANDISK\School Work\Computer Science\Platformer Game\Platformer Game\bin\Debug\Platformer Game.exe.config
+D:\SANDISK\School Work\Computer Science\Platformer Game\Platformer Game\obj\Debug\Platformer Game.exe
+D:\SANDISK\School Work\Computer Science\Platformer Game\Platformer Game\obj\Debug\Platformer Game.pdb
+E:\SANDISK\School Work\Computer Science\Platformer Game\Platformer Game\bin\Debug\Platformer Game.exe.config
+E:\SANDISK\School Work\Computer Science\Platformer Game\Platformer Game\bin\Debug\Platformer Game.exe
+E:\SANDISK\School Work\Computer Science\Platformer Game\Platformer Game\bin\Debug\Platformer Game.pdb
+E:\SANDISK\School Work\Computer Science\Platformer Game\Platformer Game\obj\Debug\Platformer Game.csprojResolveAssemblyReference.cache
+E:\SANDISK\School Work\Computer Science\Platformer Game\Platformer Game\obj\Debug\Platformer_Game.About.resources
+E:\SANDISK\School Work\Computer Science\Platformer Game\Platformer Game\obj\Debug\Platformer_Game.Form1.resources
+E:\SANDISK\School Work\Computer Science\Platformer Game\Platformer Game\obj\Debug\Platformer_Game.Properties.Resources.resources
+E:\SANDISK\School Work\Computer Science\Platformer Game\Platformer Game\obj\Debug\Platformer Game.csproj.GenerateResource.Cache
+E:\SANDISK\School Work\Computer Science\Platformer Game\Platformer Game\obj\Debug\Platformer Game.exe
+E:\SANDISK\School Work\Computer Science\Platformer Game\Platformer Game\obj\Debug\Platformer Game.pdb

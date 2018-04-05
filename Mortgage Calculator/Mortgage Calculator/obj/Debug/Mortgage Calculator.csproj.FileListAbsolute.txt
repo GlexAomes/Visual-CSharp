@@ -1,0 +1,20 @@
+c:\users\glexaomes\documents\visual studio 2012\Projects\Mortgage Calculator\Mortgage Calculator\bin\Debug\Mortgage Calculator.exe.config
+c:\users\glexaomes\documents\visual studio 2012\Projects\Mortgage Calculator\Mortgage Calculator\bin\Debug\Mortgage Calculator.exe
+c:\users\glexaomes\documents\visual studio 2012\Projects\Mortgage Calculator\Mortgage Calculator\bin\Debug\Mortgage Calculator.pdb
+c:\users\glexaomes\documents\visual studio 2012\Projects\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage Calculator.csprojResolveAssemblyReference.cache
+c:\users\glexaomes\documents\visual studio 2012\Projects\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage_Calculator.Form1.resources
+c:\users\glexaomes\documents\visual studio 2012\Projects\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage_Calculator.Properties.Resources.resources
+c:\users\glexaomes\documents\visual studio 2012\Projects\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage Calculator.csproj.GenerateResource.Cache
+c:\users\glexaomes\documents\visual studio 2012\Projects\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage Calculator.exe
+c:\users\glexaomes\documents\visual studio 2012\Projects\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage Calculator.pdb
+C:\Users\GlexAomes\Desktop\Mortgage Calculator\Mortgage Calculator\bin\Debug\Mortgage Calculator.exe.config
+C:\Users\GlexAomes\Desktop\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage Calculator.exe
+C:\Users\GlexAomes\Desktop\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage Calculator.pdb
+C:\Users\GlexAomes\Desktop\Mortgage Calculator\Mortgage Calculator\bin\Debug\Mortgage Calculator.exe
+C:\Users\GlexAomes\Desktop\Mortgage Calculator\Mortgage Calculator\bin\Debug\Mortgage Calculator.pdb
+C:\Users\GlexAomes\Desktop\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage Calculator.csprojResolveAssemblyReference.cache
+C:\Users\GlexAomes\Desktop\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage_Calculator.Form1.resources
+C:\Users\GlexAomes\Desktop\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage_Calculator.Properties.Resources.resources
+C:\Users\GlexAomes\Desktop\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage Calculator.csproj.GenerateResource.Cache
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage_Calculator.AboutBox1.resources
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Mortgage Calculator\Mortgage Calculator\obj\Debug\Mortgage_Calculator.Form2.resources

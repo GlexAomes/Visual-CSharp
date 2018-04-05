@@ -1,0 +1,39 @@
+c:\users\glexaomes\documents\visual studio 2012\Projects\Subway POS\Subway POS\bin\Debug\Subway POS.exe.config
+c:\users\glexaomes\documents\visual studio 2012\Projects\Subway POS\Subway POS\bin\Debug\Subway POS.exe
+c:\users\glexaomes\documents\visual studio 2012\Projects\Subway POS\Subway POS\bin\Debug\Subway POS.pdb
+c:\users\glexaomes\documents\visual studio 2012\Projects\Subway POS\Subway POS\obj\Debug\Subway POS.csprojResolveAssemblyReference.cache
+c:\users\glexaomes\documents\visual studio 2012\Projects\Subway POS\Subway POS\obj\Debug\Subway_POS.Form1.resources
+c:\users\glexaomes\documents\visual studio 2012\Projects\Subway POS\Subway POS\obj\Debug\Subway_POS.Properties.Resources.resources
+c:\users\glexaomes\documents\visual studio 2012\Projects\Subway POS\Subway POS\obj\Debug\Subway POS.csproj.GenerateResource.Cache
+c:\users\glexaomes\documents\visual studio 2012\Projects\Subway POS\Subway POS\obj\Debug\Subway POS.exe
+c:\users\glexaomes\documents\visual studio 2012\Projects\Subway POS\Subway POS\obj\Debug\Subway POS.pdb
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Subway POS\Subway POS\obj\Debug\Subway_POS.Form2.resources
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Subway POS\Subway POS\obj\Debug\Subway_POS.Form3.resources
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Subway POS\Subway POS\obj\Debug\Subway_POS.Form4.resources
+C:\Users\GlexAomes\Desktop\Subway POS\Subway POS\bin\Debug\Subway POS.exe.config
+C:\Users\GlexAomes\Desktop\Subway POS\Subway POS\obj\Debug\Subway POS.exe
+C:\Users\GlexAomes\Desktop\Subway POS\Subway POS\obj\Debug\Subway POS.pdb
+C:\Users\GlexAomes\Desktop\Subway POS\Subway POS\bin\Debug\Subway POS.exe
+C:\Users\GlexAomes\Desktop\Subway POS\Subway POS\bin\Debug\Subway POS.pdb
+C:\Users\GlexAomes\Desktop\Subway POS\Subway POS\obj\Debug\Subway POS.csprojResolveAssemblyReference.cache
+C:\Users\GlexAomes\Desktop\Subway POS\Subway POS\obj\Debug\Subway_POS.Form1.resources
+C:\Users\GlexAomes\Desktop\Subway POS\Subway POS\obj\Debug\Subway_POS.Form2.resources
+C:\Users\GlexAomes\Desktop\Subway POS\Subway POS\obj\Debug\Subway_POS.Form3.resources
+C:\Users\GlexAomes\Desktop\Subway POS\Subway POS\obj\Debug\Subway_POS.Form4.resources
+C:\Users\GlexAomes\Desktop\Subway POS\Subway POS\obj\Debug\Subway_POS.Properties.Resources.resources
+C:\Users\GlexAomes\Desktop\Subway POS\Subway POS\obj\Debug\Subway POS.csproj.GenerateResource.Cache
+\\Mac\Host\Volumes\C\Users\GlexAomes\Documents\Visual Studio 2012\Projects\Subway POS\Subway POS\bin\Debug\Subway POS.exe.config
+\\Mac\Host\Volumes\C\Users\GlexAomes\Documents\Visual Studio 2012\Projects\Subway POS\Subway POS\obj\Debug\Subway POS.exe
+\\Mac\Host\Volumes\C\Users\GlexAomes\Documents\Visual Studio 2012\Projects\Subway POS\Subway POS\obj\Debug\Subway POS.pdb
+E:\SANDISK\School Work\Computer Science\Subway POS\Subway POS\bin\Debug\Subway POS.exe.config
+E:\SANDISK\School Work\Computer Science\Subway POS\Subway POS\bin\Debug\Subway POS.exe
+E:\SANDISK\School Work\Computer Science\Subway POS\Subway POS\bin\Debug\Subway POS.pdb
+E:\SANDISK\School Work\Computer Science\Subway POS\Subway POS\obj\Debug\Subway POS.csprojResolveAssemblyReference.cache
+E:\SANDISK\School Work\Computer Science\Subway POS\Subway POS\obj\Debug\Subway_POS.Form1.resources
+E:\SANDISK\School Work\Computer Science\Subway POS\Subway POS\obj\Debug\Subway_POS.Form2.resources
+E:\SANDISK\School Work\Computer Science\Subway POS\Subway POS\obj\Debug\Subway_POS.Form3.resources
+E:\SANDISK\School Work\Computer Science\Subway POS\Subway POS\obj\Debug\Subway_POS.Form4.resources
+E:\SANDISK\School Work\Computer Science\Subway POS\Subway POS\obj\Debug\Subway_POS.Properties.Resources.resources
+E:\SANDISK\School Work\Computer Science\Subway POS\Subway POS\obj\Debug\Subway POS.csproj.GenerateResource.Cache
+E:\SANDISK\School Work\Computer Science\Subway POS\Subway POS\obj\Debug\Subway POS.exe
+E:\SANDISK\School Work\Computer Science\Subway POS\Subway POS\obj\Debug\Subway POS.pdb

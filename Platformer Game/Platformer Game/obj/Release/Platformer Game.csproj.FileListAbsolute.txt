@@ -1,0 +1,9 @@
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\bin\Release\Platformer Game.exe.config
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\bin\Release\Platformer Game.exe
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\bin\Release\Platformer Game.pdb
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\obj\Release\Platformer_Game.About.resources
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\obj\Release\Platformer_Game.Form1.resources
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\obj\Release\Platformer_Game.Properties.Resources.resources
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\obj\Release\Platformer Game.csproj.GenerateResource.Cache
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\obj\Release\Platformer Game.exe
+C:\Users\GlexAomes\documents\visual studio 2012\Projects\Platformer Game\Platformer Game\obj\Release\Platformer Game.pdb

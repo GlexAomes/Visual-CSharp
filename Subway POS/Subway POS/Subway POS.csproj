@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3817A1FD-EC84-4D59-9083-0C20FC5AACFD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Subway_POS</RootNamespace>
+    <AssemblyName>Subway POS</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Subway Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SubwayLarge with slogan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Subway_Eat_Fresh_Logo.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HD SAMMICH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smaller sub.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chicken and Bacon Ranch Melt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chicken Pizziola.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sweet Onion Chicken Teriyaki.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pepsi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coke.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sprite.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nestea.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aquafina.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mtn Dew.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fanta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coffee.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coffee1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drink Clipart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Generic Salads.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sweet Onion Chicken Teriyaki Salad.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bacon, Egg and Cheese.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Black Forest Ham, Egg and Cheese.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Egg and Cheese.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Steak, Egg White and Cheese.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Subway Breakfast.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Good Morning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coffee2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apple Slices.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chips.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cookie.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lays Classic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doritos Nacho Cheese.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doritos Cool Ranch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sun Chips Harvest Cheddar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cookies.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apple Closeup.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chips Clip.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChipsAlpha.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chips.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AppleAlpha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AppleSlices.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cookiez.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chipz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coke.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sprite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nestea.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mtn Dew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fanta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aquafina Alpha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coffee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Subway Breakfast.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Subway Breakfast1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bacon, Egg and Cheese.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Black Forest Ham, Egg and Cheese.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Egg and Cheese.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Steak, Egg White and Cheese.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chicken Pizziola.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sweet Onion Chicken Teriyaki.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Generic Salads.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Veggie Delite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chicken and Bacon Ranch Melt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Turkey Breast and Ham.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sweet Onion Chicken Teriyaki Salad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tuna.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Steak and Cheese.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Meatball Marinara.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sub Clip.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salad Clip.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
